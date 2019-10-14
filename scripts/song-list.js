@@ -1,3 +1,4 @@
+// javascript for going through each song in the album 
 {
   album.songs.forEach( (song, index) => {
     song.element = $(`
